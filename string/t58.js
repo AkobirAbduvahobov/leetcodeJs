@@ -29,6 +29,6 @@ var lengthOfLastWord = function(s)
     return counter-1;
 };
 
-var test1 = "Salom dunyosa   ";
+var test1 = "Salom dunyosa qale endi    ";
 var res = lengthOfLastWord(test1);
 console.log(res);
